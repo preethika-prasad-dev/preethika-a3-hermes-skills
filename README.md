@@ -8,8 +8,8 @@ validated National Weather Service fallback.
 ## Install with Hermes
 
 ```sh
-hermes skills tap add preethika-a3-hermes-skills
-hermes skills install forecast-window
+hermes skills tap add preethika-prasad-dev/preethika-a3-hermes-skills
+hermes skills install preethika-prasad-dev/preethika-a3-hermes-skills/skills/forecast-window --yes
 ```
 
 After installation, Hermes can use the skill when a request needs briefing
